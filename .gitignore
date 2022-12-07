@@ -3,6 +3,5 @@ obj/
 .vs/
 *.suo
 *.v2
-*.sln
 *.csproj
 *.json
