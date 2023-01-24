@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C072：モンスターの進化", "C072：モンスターの進化\C072：モンスターの進化.csproj", "{F72788B9-BEB2-4F5D-9542-682C65AA1CF0}"
 EndProject
+<<<<<<< Updated upstream
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C035：試験の合格判定", "C035：試験の合格判定\C035：試験の合格判定.csproj", "{B297B768-01B7-459A-8369-AB436386AEFE}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C035：試験の合格判定", "C035：試験の合格判定\C035：試験の合格判定.csproj", "{B297B768-01B7-459A-8369-AB436386AEFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C097：プレゼント応募企画の実施【新】", "C097：プレゼント応募企画の実施【新】\C097：プレゼント応募企画の実施【新】.csproj", "{A3BC6466-BEC7-41AE-82FC-8ED100649495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C050：オークションの結果", "C050：オークションの結果\C050：オークションの結果.csproj", "{4120345B-8E12-4FCD-9AE0-9C9A071BA205}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,17 @@ Global
 		{B297B768-01B7-459A-8369-AB436386AEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B297B768-01B7-459A-8369-AB436386AEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B297B768-01B7-459A-8369-AB436386AEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< Updated upstream
+=======
+		{A3BC6466-BEC7-41AE-82FC-8ED100649495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BC6466-BEC7-41AE-82FC-8ED100649495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BC6466-BEC7-41AE-82FC-8ED100649495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BC6466-BEC7-41AE-82FC-8ED100649495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4120345B-8E12-4FCD-9AE0-9C9A071BA205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4120345B-8E12-4FCD-9AE0-9C9A071BA205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4120345B-8E12-4FCD-9AE0-9C9A071BA205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4120345B-8E12-4FCD-9AE0-9C9A071BA205}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
